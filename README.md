@@ -4,7 +4,7 @@
 <h3 align="center">A passionate data scientist from Bangladesh.</h3>
 
 <img align="right" alt="Coding" width="250" height="300" src="https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif">
-<img align="right" alt="Coding" width="300" height="300" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
+<img align="right" alt="Coding" width="250" height="250" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
 <img align="right" alt="Coding" width="300" height="300" src="https://uploads-ssl.webflow.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadmansakibkhan&label=Profile%20views&color=0e75b6&style=flat" alt="shadmansakibkhan" /> </p>
@@ -21,13 +21,13 @@
 
 - 👨‍💻 All of my projects are available at [https://shadmansakibkhan.github.io/shadman-portfolio/](https://shadmansakibkhan.github.io/shadman-portfolio/)
 
-- 💬 Ask me about **Programming Language (C, Java, Python etc)**
+- 💬 Ask me about **Programming Language (C, Java, Python etc.)**
 
 - 📫 How to reach me **shadmansakibkhan99@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny guy.**
+- ⚡ Fun fact **I think I am a Funny guy.**
 
-<img align="center" alt="Coding" width="400" height="300" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
+<img align="right" alt="Coding" width="400" height="200" src="https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
