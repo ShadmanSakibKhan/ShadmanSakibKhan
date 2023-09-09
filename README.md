@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **shadmansakibkhan99@gmail.com**
 
-- ⚡ Fun fact **I think I am a Funny guy.**
+- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs!**
 
 
 <h3 align="left">Connect with me:</h3>
