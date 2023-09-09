@@ -48,6 +48,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadmansakibkhan&show_icons=true&locale=en&layout=compact" alt="shadmansakibkhan" /></p>
 
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
+<br/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadmansakibkhan&show_icons=true&locale=en" alt="shadmansakibkhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadmansakibkhan&" alt="shadmansakibkhan" /></p>
