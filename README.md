@@ -48,6 +48,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shadmansakibkhan&show_icons=true&locale=en&layout=compact" alt="shadmansakibkhan" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadmansakibkhan&show_icons=true&locale=en" alt="shadmansakibkhan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadmansakibkhan&" alt="shadmansakibkhan" /></p>
+
 <br/><br/>
 <hr/>
 
@@ -56,7 +60,3 @@
 </h3>
 
 <br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shadmansakibkhan&show_icons=true&locale=en" alt="shadmansakibkhan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shadmansakibkhan&" alt="shadmansakibkhan" /></p>
