@@ -54,7 +54,8 @@
 <p align="left"> <img src="https://e0.pxfuel.com/wallpapers/693/944/desktop-wallpaper-python-logo-laptop-full-background-and-python-coding.jpg" width="50" height="50"> <br> Python - 60% </p>
 
 
-<p> C - 90% </p>
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> C - 90% </p>
+
 <p> C++ - 40% </p>
 <p> C# - 20% </p>
 <p> Java - 70% </p>
