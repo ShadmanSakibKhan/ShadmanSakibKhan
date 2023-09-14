@@ -51,33 +51,21 @@
 
 <h3 align="left">Programming Language</h3>
 
-<p>C</p>
-<div class="container">
-  <div class="skills js">90%</div>
-</div>
-
-<p>JavaScript</p>
-<div class="container">
-  <div class="skills js">60%</div>
-</div>
-
-<p>PHP</p>
-<div class="container">
-  <div class="skills php">50%</div>
-</div>
+<p> Python - 60% </p>
+<p> C - 90% </p>
+<p> C++ - 40% </p>
+<p> C# - 20% </p>
+<p> Java - 70% </p>
+<p> JavaScript - 60% </p>
+<p> PHP - 40% </p>
 
 <h3 align="left">Front-End Development</h3>
 
-<p>HTML</p>
-<div class="container">
-  <div class="skills html">90%</div>
-</div>
-
-<p>CSS</p>
-<div class="container">
-  <div class="skills css">80%</div>
-</div>
-
+<p> HTML & HTML5 - 90% </p>
+<p> CSS & CSS3 - 80% </p>
+<p> React - 10% </p>
+<p> Vue.js - 10% </p>
+<p> Tailwind - 10% </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
