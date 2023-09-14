@@ -51,19 +51,10 @@
 
 <h3 align="left">Programming Language</h3>
 
-<p align="left">
 
-<a href="" target="blank"><img align="center" src="https://e0.pxfuel.com/wallpapers/693/944/desktop-wallpaper-python-logo-laptop-full-background-and-python-coding.jpg" height="50" width="50" /><br> <b> Python: 60% </b> </a>
+<p align="right"> <img src="https://e0.pxfuel.com/wallpapers/693/944/desktop-wallpaper-python-logo-laptop-full-background-and-python-coding.jpg" width="50" height="50"> <br> <b> Python: 60% </b> </p>
 
-<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"  height="50" width="50" /><br> <b> Python: 60% </b> </a>
-
-</p>
-
-
-
-<p align="left"> <img src="https://e0.pxfuel.com/wallpapers/693/944/desktop-wallpaper-python-logo-laptop-full-background-and-python-coding.jpg" width="50" height="50"> <br> <b> Python: 60% </b> </p>
-
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> <b> C: 90% </b> </p>
+<p align="right"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> <b> C: 90% </b> </p>
 
 <p align="right"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> <b> C: 90% </b> </p>
 
