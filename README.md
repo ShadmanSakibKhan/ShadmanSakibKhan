@@ -54,17 +54,17 @@
 
 <p align="left"> <img src="https://e0.pxfuel.com/wallpapers/693/944/desktop-wallpaper-python-logo-laptop-full-background-and-python-coding.jpg" width="50" height="50"> <br> <b> Python: 60% </b> </p>
 
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> <b> Java: 70% </b> </p>
+<p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvWXnYF4xLJSuES9lx1DrOgE5Eaa8aD2JXhA&usqp=CAU" width="50" height="50"> <br> <b> Java: 70% </b> </p>
 
 <p align="right"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> <b> C: 90% </b> </p>
 
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> <b> C++: 40% </b> </p>
+<p align="center"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtmqKdM9v6YM1PIF4MJrgZd4dfzVcai7N-3Q&usqp=CAU" width="50" height="50"> <br> <b> C++: 40% </b> </p>
 
-<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> <b> C#: 20% </b> </p>
+<p align="left"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrNEDRX4iAs25-d33gHNquu_uqXVuJfq2Egg&usqp=CAU" width="50" height="50"> <br> <b> C#: 20% </b> </p>
 
-<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> <b> JavaScript: 60% </b> </p>
+<p align="center"> <img src="" width="50" height="50"> <br> <b> JavaScript: 60% </b> </p>
 
-<p align="right"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> <b> PHP: 40% </b> </p>
+<p align="right"> <img src="" width="50" height="50"> <br> <b> PHP: 40% </b> </p>
 
 
 <h3 align="Center">Front-End Development</h3>
