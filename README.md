@@ -51,10 +51,19 @@
 
 <h3 align="left">Programming Language</h3>
 
+<div class="row">
+<div class="column">
+
 <p> <img src="https://e0.pxfuel.com/wallpapers/693/944/desktop-wallpaper-python-logo-laptop-full-background-and-python-coding.jpg" width="50" height="50"> <br> Python - 60% </p>
 
+</div>
+<div class="column">
 
 <p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> C - 90% </p>
+
+</div>
+</div>
+
 
 <p> C++ - 40% </p>
 <p> C# - 20% </p>
