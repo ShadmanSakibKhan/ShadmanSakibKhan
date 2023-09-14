@@ -62,10 +62,14 @@
 <p> JavaScript - 60% </p>
 <p> PHP - 40% </p>
 
-<h3 align="left">Front-End Development</h3>
+<h3 align="Center">Front-End Development</h3>
 
-<p> HTML & HTML5 - 90% </p>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> <b> HTML: 90% </b> </p>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> <b> HTML5: 90% </b> </p>
+
 <p> CSS & CSS3 - 80% </p>
+
 <p> React - 10% </p>
 <p> Vue.js - 10% </p>
 <p> Tailwind - 10% </p>
