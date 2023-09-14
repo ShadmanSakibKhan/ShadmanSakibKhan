@@ -51,7 +51,7 @@
 
 <h3 align="left">Programming Language</h3>
 
-<p> Python - 60% </p>
+<p align="left"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Logo.png" width="40" height="40"> Python - 60% </p>
 <p> C - 90% </p>
 <p> C++ - 40% </p>
 <p> C# - 20% </p>
