@@ -51,7 +51,9 @@
 
 <h3 align="left">Programming Language</h3>
 
-<p align="left"> <img src="https://e0.pxfuel.com/wallpapers/693/944/desktop-wallpaper-python-logo-laptop-full-background-and-python-coding.jpg" width="100" height="100"> Python - 60% </p>
+<p align="left"> <img src="https://e0.pxfuel.com/wallpapers/693/944/desktop-wallpaper-python-logo-laptop-full-background-and-python-coding.jpg" width="50" height="50"> <br> Python - 60% </p>
+
+
 <p> C - 90% </p>
 <p> C++ - 40% </p>
 <p> C# - 20% </p>
