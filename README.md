@@ -53,9 +53,11 @@
 
 <p align="left">
 
-<a href="" target="blank"><img align="center" src="https://e0.pxfuel.com/wallpapers/693/944/desktop-wallpaper-python-logo-laptop-full-background-and-python-coding.jpg" alt="shadmansakib_97" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://e0.pxfuel.com/wallpapers/693/944/desktop-wallpaper-python-logo-laptop-full-background-and-python-coding.jpg" height="50" width="50" /><br> <b> Python: 60% </b> </a>
 
-<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" alt="shadmansakib_97" height="50" width="50" /></a>
+<a href="" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"  height="50" width="50" /><br> <b> Python: 60% </b> </a>
+
+</p>
 
 
 
