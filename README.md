@@ -50,7 +50,7 @@
 <h2 align="center">⚡ Skills ⚡</h2>
 
 <h3 align="left">Programming Language</h3>
-
+<br>
 
 <p align="left"> <img src="https://e0.pxfuel.com/wallpapers/693/944/desktop-wallpaper-python-logo-laptop-full-background-and-python-coding.jpg" width="70" height="50"> <br> <b> Python: 60% </b> </p>
 
@@ -67,17 +67,21 @@
 <p align="right"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz3sZVjeHWjMRrgNx3ZD52hzf5cfvFC1jOWw&usqp=CAU" width="70" height="50"> <br> <b> PHP: 40% </b> </p>
 
 
-<h3 align="Center">Front-End Development</h3>
+<h3 align="Center">Android Development</h3>
+<br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> <b> HTML: 90% </b> </p>
+<p align="left">
+    
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" width="50" height="50"> <br> <b> HTML5: 90% </b> </p>
 
-<p> CSS & CSS3 - 80% </p>
+</p>
 
-<p> React - 10% </p>
-<p> Vue.js - 10% </p>
-<p> Tailwind - 10% </p>
+<h3 align="Center">Back-End Development</h3>
+<br>
+
+<p align="left"> <img src="" width="70" height="50"> <br> <b> Python: 60% </b> </p>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
