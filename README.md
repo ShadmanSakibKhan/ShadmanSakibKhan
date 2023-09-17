@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shadman+Sakib+Khan!;" />
 </h1>
 
-<img align="center" alt="Coding" width="800" height="300" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
+<img align="center" alt="Coding" width="1000" height="300" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
 <h3 align="center">A passionate data scientist from Bangladesh.</h3>
 
