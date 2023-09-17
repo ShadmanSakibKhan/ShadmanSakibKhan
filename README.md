@@ -8,7 +8,6 @@
 <br>
 
 <h3 align="center">A passionate data scientist from Bangladesh.</h3>
-<br>
 
 <img align="right" alt="Coding" width="250" height="300" src="https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif">
 <img align="right" alt="Coding" width="300" height="300" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
