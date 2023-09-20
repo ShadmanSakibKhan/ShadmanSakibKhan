@@ -9,7 +9,7 @@
 <img align="center" alt="Coding" width="1000" height="300" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 <br> 
 
-<h3 align="center">A passionate data scientist from Bangladesh.</h3>
+<h3 align="center">A passionate data scientist from Bangladesh.</h3> 
 <h3 align="center"><br></h3>
 
 <img align="right" alt="Coding" width="250" height="300" src="https://miro.medium.com/v2/resize:fit:800/1*ubde-Fkr9MeohJo0EuqQNQ.gif">
