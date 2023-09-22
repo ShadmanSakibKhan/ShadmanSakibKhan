@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
 
 <h1 align="center">
-    <img width="1200 height="250" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shadman+Sakib+Khan!)">
+    <img width="1200 height="250" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shadman+Sakib+Khan!">
 </h1>
 
 <img align="center" alt="Coding" width="1000" height="300" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
