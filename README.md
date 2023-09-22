@@ -5,7 +5,7 @@
 </h1>
 
 <img align="center" alt="Coding" width="1000" height="300" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
-<br> 
+<br>
 
 <h3 align="center">A passionate data scientist from Bangladesh.</h3> 
 <h3 align="center"><br></h3>
