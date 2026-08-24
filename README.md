@@ -32,8 +32,6 @@
 
 - ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs!**
 
-+++++++++++++++++++++++++++++++++++++++++++++++++
-
 # snk
 
 [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
@@ -56,8 +54,6 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
-+++++++++++++++++++++++++++++++++++++++++++++++++
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
